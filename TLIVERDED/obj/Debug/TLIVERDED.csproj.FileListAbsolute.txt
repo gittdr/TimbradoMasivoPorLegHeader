@@ -1,0 +1,57 @@
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\bin\Debug\TLIVERDED.exe.config
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\bin\Debug\TLIVERDED.exe
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\bin\Debug\TLIVERDED.pdb
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\bin\Debug\RestSharp.dll
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\bin\Debug\Tamir.SharpSSH.dll
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\bin\Debug\RestSharp.xml
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.exe
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.pdb
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\bin\Debug\TLIVERDED.exe.manifest
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\bin\Debug\TLIVERDED.application
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.exe.manifest
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.application
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Lenovo\source\repos\TLIVERDED\TLIVERDED\bin\Debug\Newtonsoft.Json.xml
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\bin\Debug\TLIVERDED.exe.config
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\bin\Debug\TLIVERDED.exe.manifest
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\bin\Debug\TLIVERDED.application
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\bin\Debug\TLIVERDED.exe
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\bin\Debug\TLIVERDED.pdb
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\bin\Debug\Newtonsoft.Json.dll
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\bin\Debug\RestSharp.dll
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\bin\Debug\Tamir.SharpSSH.dll
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\bin\Debug\Newtonsoft.Json.pdb
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\bin\Debug\Newtonsoft.Json.xml
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\bin\Debug\RestSharp.xml
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.csproj.AssemblyReference.cache
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.csproj.SuggestedBindingRedirects.cache
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.csproj.CoreCompileInputs.cache
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.exe.manifest
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.application
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.csproj.CopyComplete
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.exe
+D:\Administracion\Respaldo de las app de TDR\repos\TLIVERDED\TLIVERDED\obj\Debug\TLIVERDED.pdb
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\bin\Debug\TLIVERDED.exe.config
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\bin\Debug\TLIVERDED.exe.manifest
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\bin\Debug\TLIVERDED.application
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\bin\Debug\TLIVERDED.exe
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\bin\Debug\TLIVERDED.pdb
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\bin\Debug\Newtonsoft.Json.dll
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\bin\Debug\RestSharp.dll
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\bin\Debug\Tamir.SharpSSH.dll
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\bin\Debug\Newtonsoft.Json.pdb
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\bin\Debug\Newtonsoft.Json.xml
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\bin\Debug\RestSharp.xml
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\obj\Debug\TLIVERDED.csproj.AssemblyReference.cache
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\obj\Debug\TLIVERDED.csproj.SuggestedBindingRedirects.cache
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\obj\Debug\TLIVERDED.csproj.CoreCompileInputs.cache
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\obj\Debug\TLIVERDED.exe.manifest
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\obj\Debug\TLIVERDED.application
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\obj\Debug\TLIVERDED.csproj.CopyComplete
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\obj\Debug\TLIVERDED.exe
+D:\Administracion\Respaldo de las app de TDR\repos\TM\TLIVERDED\obj\Debug\TLIVERDED.pdb
